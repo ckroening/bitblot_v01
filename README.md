@@ -6,7 +6,7 @@ The purpose of this document is to provide detailed documentation that clearly d
 
 This document takes precedence over any other documentation provided regarding scope of work.
 Scope of Work Feature Details
-A Mind of Art’s Own is a project built to harness and visually demonstrate the unique correlations between user responses and pre-generated imagery. This is an application with an intention to find novel patterns in user responses and to guide the user in an interpretation of these emotional responses via the aid of a visual model of returned user data. 
+Bit Blot is a project built to harness and visually demonstrate the unique correlations between user responses and pre-generated imagery. This is an application with an intention to find novel patterns in user responses and to guide the user in an interpretation of these emotional responses via the aid of a visual model of returned user data. 
 Features
 The features of this application will be balanced across two views: a basic landing page and a generated results page.
 Main Landing View
