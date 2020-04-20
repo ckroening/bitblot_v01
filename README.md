@@ -1,6 +1,7 @@
 # Bit Blot
 * Client: Self
 * Dec. 18, 2015 | Version 02
+## * Please see most up-to-date version here: https://github.com/ckroening/bitblot
 
 ### Document Objectives
 The purpose of this document is to provide detailed documentation that clearly defines the work that Prime Student, Charlotte Kroening, will perform and the deliverables you will receive within the scope of this project. By accepting this document you acknowledge your understanding and agreement to this scope of work. Any requirement which falls outside the specifications in this document will be considered "Out of Scope" and may require reprioritization or removal of other features to implement. 
